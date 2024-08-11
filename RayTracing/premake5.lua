@@ -1,4 +1,4 @@
-project "WalnutApp"
+project "RayTracing"
    kind "ConsoleApp"
    language "C++"
    cppdialect "C++17"
@@ -47,3 +47,5 @@ project "WalnutApp"
       runtime "Release"
       optimize "On"
       symbols "Off"
+
+      
